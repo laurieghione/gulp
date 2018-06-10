@@ -12,5 +12,5 @@ Learn Gulp and some tasks
 7. Optimization of Js and CSS files with minify
 
 
-Ps : Be Careful : my code is update for Gulp v4, the tutorial is compatible with v3 only, somes things are deprecated with this version
+Ps : Be Careful : my code is update for Gulp v4, the tutorial is compatible with only v3, some things are deprecated with this version
 
