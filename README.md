@@ -10,7 +10,7 @@ Learn Gulp and some tasks
 5. Gulp Watch to follow files update
 6. BrowserSync to synchronise files and reload browser automatically when a file is updated
 7. Optimization of Js and CSS files with minify with uglify / cleanCSS / useref
-8. Omptimization of pictures files with minify with imagemin
+8. Optimization of pictures files with minify with imagemin
 9. Copy fonts
 10. Clean files
 11. Combine all task
