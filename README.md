@@ -13,7 +13,7 @@ Learn Gulp and some tasks
 8. Omptimization of pictures files with minify with imagemin
 9. Copy fonts
 10. Clean files
-11. Combine all task with run sequence
+11. Combine all task
 
 
 Ps : Be Careful : my code is update for Gulp v4, the tutorial is compatible with only v3, some things are deprecated with this version
